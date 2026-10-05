@@ -1,6 +1,7 @@
 # Digital Logic & CPU Architecture Lab: D Flip-Flop & XOR Integration
 
 A hands-on step-by-step experiment exploring sequential logic, memory elements, and state preservation using the **Digital** logic simulator.
+![preview](./preview-.png)
 
 ---
 
